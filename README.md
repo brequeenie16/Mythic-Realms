@@ -200,4 +200,4 @@ This repository serves as the official landing page for Mythic Realms. The softw
 **Get the most recent version of Mythic Realms today!**
 
 ---
-**Last updated:** 2026-11-13 18:16:52 UTC
+**Last updated:** 2026-11-14 00:02:07 UTC
